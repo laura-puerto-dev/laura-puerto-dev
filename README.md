@@ -4,33 +4,43 @@
 
 # 👋 Hi, I'm Laura
 
-🎯 I'm a software developer transitioning from web and game development to **Machine Learning and Deep Learning**. Passionate about learning and always curious about how things work behind the scenes.
+🎯 I'm a software developer transitioning from web and game development into **Applied AI**, focused on building real-world solutions with **LLMs**, **LangChain**, **automation workflows**, and modern Python tools.
+
+🧠 Passionate about creating smart, useful, and elegant AI-powered applications. Always learning, always curious.
+
+---
 
 ## 🚀 What I'm doing now
-- 📚 Studying the **Machine Learning Specialization (Univ. of Washington)** on Coursera.
-- 🤖 Advancing in the **IBM Machine Learning Professional Certificate**.
-- 🧠 Building a solid foundation in Python, NumPy, Pandas, Scikit-learn, and TensorFlow.
-- 💻 Rewriting academic notebooks using **modern tools** and real datasets.
 
-📁 I'm also publishing the projects from the IBM honors track here:  
-🔗 [ibm-ml-honors-projects](https://github.com/LauraPuerto82/ibm-ml-honors-projects)
+- 🤖 Developing **AURA** – an AI assistant that reviews Python code, refactors it, and generates documentation automatically.  
+  *(Built with LangChain, OpenAI API, n8n, and Python)*
 
-## 📌 Projects
+- 📚 Studying **Python programming**, **LangChain architecture**, and **AI engineering patterns**.
 
-- 🏠 *Deep Learning for Real Estate Price Prediction* → [See it on GitHub](https://github.com/LauraPuerto82/mini-ia-projects-/tree/master/01.-%20Deep%20Learning%20for%20Real%20Estate%20Price%20Prediction)
-- 🖼️ *Image Classification with CNNs* (coming soon)
-- 🗣️ *Sentiment Analysis with NLP* (coming soon)
-- ☁️ *Deploying ML models with MLOps on AWS* (coming soon)
+🧩 Visit my AI portfolio:  
+🔗 [laura-puerto-portfolio.vercel.app](https://laura-puerto-portfolio.vercel.app/)
 
-📁 Explore all my AI mini-projects here:  
-🔗 [mini-ia-projects](https://github.com/LauraPuerto82/mini-ia-projects-)
+---
+
+## 📁 Featured Projects
+
+- 🤖 **AURA** – LLM-powered Python code reviewer (private for now)
+
+- 🎬 **JokeFlix** – Generates movie-themed jokes using OMDb and joke APIs  
+  🔗 [Repo](https://github.com/LauraPuerto82/jokeflix)
+
+---
 
 ## 💡 Background
-Previously certified in Unity game development and experienced in building modern web applications. This background helps me bring creativity and structure into the world of AI.
+
+I’m certified in **Unity Game Development** and experienced in building **modern web apps**. This background gives me a creative, structured mindset when designing AI solutions with tools like LangChain and n8n.
+
+---
 
 ## 📫 Let's connect
-- [LinkedIn](https://www.linkedin.com/in/laura-puerto-dev)
-- [Portfolio](https://laura-puerto-portfolio.vercel.app/)
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/laura-puerto-dev)
+- 🌐 [Portfolio](https://laura-puerto-portfolio.vercel.app/)
 - 📩 Email: laura.puerto.martin@gmail.com
 
 ---

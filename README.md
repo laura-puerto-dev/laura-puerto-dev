@@ -31,7 +31,7 @@
 ### Systems Engineering Series
 
 - ✅ **[Distributed Logistics Platform](https://github.com/LauraPuerto82/distributed-logistics-platform)** — Event-driven microservices in Go and Python (order, routing, prediction), Kafka, transactional outbox pattern, idempotent consumers, deployed locally on MiniStack (ECS/Fargate emulation).
-- 🔧 **[B2B ERP Data Integrator](https://github.com/LauraPuerto82/b2b-erp-data-integrator)** — Canonical data model unifying 3 heterogeneous ERP formats, dual processing path (Python streaming + PySpark), AWS Glue integration. Built on 18 years of hands-on ERP systems experience. *(final AWS Glue deployment in progress)*
+- ✅ **[B2B ERP Data Integrator](https://github.com/LauraPuerto82/b2b-erp-data-integrator)** — Canonical data model unifying 3 heterogeneous ERP formats, dual processing path (Python streaming + PySpark), AWS Glue/S3 integration, Parquet + rejected JSON outputs, and reproducible MiniStack deployment with end-to-end validation on Windows and Linux/WSL. Built on 18 years of hands-on ERP systems experience.
 - More added as they ship.
 
 ### Applied AI

@@ -9,6 +9,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
@@ -45,6 +46,7 @@
 <details>
 <summary>Other projects</summary>
 
+- 🔄 **[Salesforce CS Automation](https://github.com/laura-puerto-dev/salesforce-cs-automation)** — Customer Success workflow automation integrating n8n, FastAPI, and Salesforce end-to-end, with OAuth service authentication, API security, validation, controlled failure handling, and automated tests.
 - 📊 **[Market Events Service](https://github.com/laura-puerto-dev/market-events-service)** — Async FastAPI service aggregating and deduplicating financial market events, PostgreSQL + Redis.
 - 📄 **[Chat with Documents](https://github.com/laura-puerto-dev/chat-with-documents)** — RAG over documents with LangChain, ChromaDB, Gemini. [Live demo](https://laurapuerto-chat-with-documents.streamlit.app/)
 - 🌦️ **[Weather Plan Agent](https://github.com/laura-puerto-dev/weather-plan-agent-project)** — LangChain tool-calling agent building day plans from live weather data.

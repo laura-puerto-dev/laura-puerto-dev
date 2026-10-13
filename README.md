@@ -25,7 +25,7 @@
 
 - 🤖 Building **EnterpriseOps AI** — an enterprise AI investigation platform combining structured data, RAG, controlled agentic workflows (LangGraph), evaluation, and observability, developed incrementally with production-oriented practices
 - 🏗️ Building a series of production-style backend/data systems — distributed systems, ERP data integration, and more — each one designed, tested, and deployed end-to-end by me, with documented architecture decisions (ADRs) for every non-trivial choice
-- 📚 Applying what I learn in the AI Engineering Master directly to my own projects: reranking, agentic RAG, production vector DBs, deployment, observability
+- 📚 Applying what I learn in the AI Engineering Master directly to my own projects: reranking, agentic RAG, production vector DBs, deployment, observability. My course practice, in progress, is in [ai-engineering-master](https://github.com/laura-puerto-dev/ai-engineering-master)
 - 🧩 Full portfolio: 🔗 [laura-puerto-portfolio.vercel.app](https://laura-puerto-portfolio.vercel.app/)
 
 ---
